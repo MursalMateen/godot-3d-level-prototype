@@ -1,5 +1,13 @@
 # godot-3d-level-prototype
 A simple 3D level design prototype made in Godot Engine 4.1
+
+## 🚀 Features
+
+- Modular wall and floor structure
+- Directional light and environment
+- Character movement (walk, jump, sprint, freefly)
+- Created with `proto_controller.gd`
+
 ## 🧠 Goals
 
 This prototype was built to:
